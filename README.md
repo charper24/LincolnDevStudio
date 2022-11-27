@@ -1,5 +1,5 @@
 # LincolnDevStudio
-An web application where community groups can submit software development requests to university students.
+A web application where community groups can submit software development requests to university students.
 
 This system was developed using Visual Studio 2015 Community Edition.
 
